@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">business-card-compose</string>
+    <string name="name_string">Zhaoshan Duan</string>
+    <string name="title_string">Android Developer</string>
+</resources>
